@@ -42,7 +42,33 @@ The `06_Visualizations` folder contains charts covering:
 - RFM customer segments
 
 ## Key Findings
-Add verified findings from your analysis here, such as the highest-revenue month, leading products, top-performing country, and customer segment sizes.
+The analysis of the UCI Online Retail dataset revealed the following findings:
+
+- **Total Revenue:** £10,666,684.54 in recorded sales revenue.
+- **Best-Performing Month:** November 2011, with revenue of £1,509,496.33.
+- **Top Country:** The United Kingdom generated the highest revenue.
+- **Best-Selling Product:** PAPER CRAFT , LITTLE BIRDIE had the highest total quantity sold.
+- **Unique Customers:** The dataset contains 4,338 unique customers with recorded customer IDs.
+- **Total revenue generated in November 2011:** It is approximately 14.15%.
+- ## Key Findings
+
+## Business Recommendations
+
+1. **Sales Planning:** Investigate the strong performance in November 2011 to identify seasonal demand patterns and opportunities for future campaigns.
+2. **Inventory Management:** Monitor demand for best-selling products to support stock planning.
+3. **Market Strategy:** Analyze UK sales patterns and customer preferences to maintain performance in the largest market.
+4. **Customer Retention:** Use RFM segmentation to identify loyal customers and customers who may need re-engagement.
+5. **Data-Driven Decisions:** Track monthly revenue, product demand, and customer purchasing behavior to support business planning.
+
+*Note: Revenue and customer metrics depend on the data-cleaning rules applied. Product rankings here are based on total quantity sold, not revenue.*
+
+## Business Recommendations
+
+1. **Sales Planning:** Investigate the strong performance in November 2011 to identify seasonal demand patterns and opportunities for future campaigns.
+2. **Inventory Management:** Monitor demand for best-selling products to support stock planning.
+3. **Market Strategy:** Analyze UK sales patterns and customer preferences to maintain performance in the largest market.
+4. **Customer Retention:** Use RFM segmentation to identify loyal customers and customers who may need re-engagement.
+5. **Data-Driven Decisions:** Track monthly revenue, product demand, and customer purchasing behavior to support business planning.
 
 ## Business Recommendations
 Recommendations will be based on the analysis results and may include inventory planning, targeted marketing, and customer retention strategies.
@@ -55,4 +81,20 @@ Recommendations will be based on the analysis results and may include inventory 
 
 ## Author
 Project created as part of a Python data analysis portfolio.
+## Visualizations
+
+### 1. Monthly Revenue Trend
+![Monthly Sales Trend](06_Visualizations/01_monthly_sales_trend.png)
+
+### 2. Top 10 Best-Selling Products
+![Top Products](06_Visualizations/02_top_10_products.png)
+
+### 3. Top 10 Countries by Revenue
+![Top Countries](06_Visualizations/03_top_10_countries.png)
+
+### 4. Top 10 Customers by Revenue
+![Top Customers](06_Visualizations/04_top_10_customers.png)
+
+### 5. Customer RFM Segmentation
+![RFM Customer Segments](06_Visualizations/05_customer_segments.png)
 
