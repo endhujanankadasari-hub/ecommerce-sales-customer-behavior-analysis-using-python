@@ -3,6 +3,27 @@
 ## Project Overview
 This project analyzes the UCI Online Retail dataset using Python to understand sales performance, product demand, and customer purchasing behavior.
 
+## Skills Demonstrated
+- **Data Cleaning:** Handling missing values, invalid records, returns, and cancellations.
+- **Data Analysis:** Using Pandas to analyze retail transactions.
+- **Exploratory Data Analysis (EDA):** Identifying trends and patterns in sales data.
+- **Data Visualization:** Creating charts using Matplotlib.
+- **Customer Analytics:** Analyzing customer spending and purchase behavior.
+- **RFM Segmentation:** Grouping customers by Recency, Frequency, and Monetary value.
+- **Business Intelligence:** Translating analytical results into business recommendations.
+
+## Project Highlights
+- Analyzed retail transaction data from the UCI Machine Learning Repository.
+- Calculated total revenue of £10,666,684.54 using the current analysis rules.
+- Identified November 2011 as the highest-revenue month.
+- Found the United Kingdom to be the highest-revenue country.
+- Identified the best-selling product by total quantity sold.
+- Analyzed 4,338 unique customers.
+- Created five visualizations to communicate the findings.
+
+## Tools Used
+Python | Pandas | Matplotlib | Google Colab | Jupyter Notebook | GitHub
+
 ## Objectives
 - Analyze monthly sales and revenue trends.
 - Identify top-selling products.
@@ -59,8 +80,6 @@ The analysis of the UCI Online Retail dataset revealed the following findings:
 3. **Market Strategy:** Analyze UK sales patterns and customer preferences to maintain performance in the largest market.
 4. **Customer Retention:** Use RFM segmentation to identify loyal customers and customers who may need re-engagement.
 5. **Data-Driven Decisions:** Track monthly revenue, product demand, and customer purchasing behavior to support business planning.
-
-*Note: Revenue and customer metrics depend on the data-cleaning rules applied. Product rankings here are based on total quantity sold, not revenue.*
 
 ## Business Recommendations
 
