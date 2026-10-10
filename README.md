@@ -85,8 +85,7 @@ The analysis of the UCI Online Retail dataset revealed the following findings:
 3. Load the dataset from the UCI source.
 4. Run the notebook cells in order.
 
-## Author
-Project created as part of a Python data analysis portfolio.
+
 ## Visualizations
 
 ### 1. Monthly Revenue Trend
