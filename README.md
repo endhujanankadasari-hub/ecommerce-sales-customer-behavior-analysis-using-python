@@ -103,4 +103,8 @@ Project created as part of a Python data analysis portfolio.
 
 ### 5. Customer RFM Segmentation
 ![RFM Customer Segments](06_Visualizations/05_customer_segments.png)
+## Project Reports
 
+- [View EDA Report (PDF)](EDA_Report.pdf)
+- [View Project Presentation (PowerPoint)](E-Commerce_Sales_Analysis_Presentation.pptx)
+- [Explore All Visualizations](06_Visualizations/)
