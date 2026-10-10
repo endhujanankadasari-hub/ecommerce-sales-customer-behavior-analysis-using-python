@@ -70,9 +70,7 @@ The analysis of the UCI Online Retail dataset revealed the following findings:
 - **Top Country:** The United Kingdom generated the highest revenue.
 - **Best-Selling Product:** PAPER CRAFT , LITTLE BIRDIE had the highest total quantity sold.
 - **Unique Customers:** The dataset contains 4,338 unique customers with recorded customer IDs.
-- **Total revenue generated in November 2011:** It is approximately 14.15%.
-- ## Key Findings
-
+- **Total revenue generated in November 2011:** It is approximately 14.15%
 ## Business Recommendations
 
 1. **Sales Planning:** Investigate the strong performance in November 2011 to identify seasonal demand patterns and opportunities for future campaigns.
@@ -80,17 +78,6 @@ The analysis of the UCI Online Retail dataset revealed the following findings:
 3. **Market Strategy:** Analyze UK sales patterns and customer preferences to maintain performance in the largest market.
 4. **Customer Retention:** Use RFM segmentation to identify loyal customers and customers who may need re-engagement.
 5. **Data-Driven Decisions:** Track monthly revenue, product demand, and customer purchasing behavior to support business planning.
-
-## Business Recommendations
-
-1. **Sales Planning:** Investigate the strong performance in November 2011 to identify seasonal demand patterns and opportunities for future campaigns.
-2. **Inventory Management:** Monitor demand for best-selling products to support stock planning.
-3. **Market Strategy:** Analyze UK sales patterns and customer preferences to maintain performance in the largest market.
-4. **Customer Retention:** Use RFM segmentation to identify loyal customers and customers who may need re-engagement.
-5. **Data-Driven Decisions:** Track monthly revenue, product demand, and customer purchasing behavior to support business planning.
-
-## Business Recommendations
-Recommendations will be based on the analysis results and may include inventory planning, targeted marketing, and customer retention strategies.
 
 ## How to Run
 1. Clone or download this repository.
